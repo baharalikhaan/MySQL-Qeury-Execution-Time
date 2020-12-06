@@ -1,0 +1,7 @@
+E:\my work\My Projects\Commercial Projects\Freelancing\Ihsan InfluxDB vs Mysql\mysql_client\ConsoleApp1\ConsoleApp1\bin\Debug\mysql.exe.config
+E:\my work\My Projects\Commercial Projects\Freelancing\Ihsan InfluxDB vs Mysql\mysql_client\ConsoleApp1\ConsoleApp1\bin\Debug\mysql.exe
+E:\my work\My Projects\Commercial Projects\Freelancing\Ihsan InfluxDB vs Mysql\mysql_client\ConsoleApp1\ConsoleApp1\bin\Debug\mysql.pdb
+E:\my work\My Projects\Commercial Projects\Freelancing\Ihsan InfluxDB vs Mysql\mysql_client\ConsoleApp1\ConsoleApp1\obj\Debug\mysql.csproj.CoreCompileInputs.cache
+E:\my work\My Projects\Commercial Projects\Freelancing\Ihsan InfluxDB vs Mysql\mysql_client\ConsoleApp1\ConsoleApp1\obj\Debug\mysql.exe
+E:\my work\My Projects\Commercial Projects\Freelancing\Ihsan InfluxDB vs Mysql\mysql_client\ConsoleApp1\ConsoleApp1\obj\Debug\mysql.pdb
+E:\my work\My Projects\Commercial Projects\Freelancing\Ihsan InfluxDB vs Mysql\mysql_client\ConsoleApp1\ConsoleApp1\obj\Debug\mysql.csprojAssemblyReference.cache
